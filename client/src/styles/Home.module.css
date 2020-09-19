@@ -1,0 +1,22 @@
+h1 {
+  letter-spacing: 2px;
+  line-height: 0px;
+  font-size: 90px;
+}
+
+h3 {
+  letter-spacing: 7px;
+  line-height: 20px;
+}
+
+.mainContainer {
+  text-align-last: center;
+  line-height: 50px;
+  padding-top: 5%;
+}
+ 
+.wod {
+  color: #D6160D;
+}
+
+

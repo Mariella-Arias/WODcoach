@@ -1,0 +1,18 @@
+.box{
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.btnBox {
+    margin-left: 10px;
+    width: 200px;
+    display: inline-block;
+}
+
+.inputField {
+  margin-left: 10px;
+}
+
+.arBtn {
+margin-right: 10px;
+}

@@ -1,0 +1,34 @@
+.workoutMain h1 {
+  text-align: center !important;
+}
+
+.workoutMain {
+  font-size: 20px;
+  line-height: 30px;
+}
+
+.btnBox {
+  margin-left: 10px;
+  width: 200px;
+  display: inline-block;
+}
+
+.wod {
+  color: #D6160D;
+}
+
+button, select, option{
+  background-color: #DBDEDD;
+  line-height: 1.45;
+  font-size: 16px;
+  height: 30px; 
+  cursor: pointer;
+  border-width: 1px;
+  border-style: solid;
+  overflow: hidden;
+  padding: 0px 12px;
+  margin: 0px;
+  border-radius: 4px;
+  border-color: rgb(136, 136, 136);
+  font-family: inherit;
+}
