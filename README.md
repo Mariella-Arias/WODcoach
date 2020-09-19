@@ -1,5 +1,4 @@
-<!-- ![Logo](demo/WODlogo.png) .element max=width:50% -->
-<img src="/Users/ariasmariella/HR/HR-projects/HR_MVP/WODcoach/demo/WODlogo.png" alt="WODcoach" max-width=50%>
+<img width="335" alt="WODlogo" src="https://user-images.githubusercontent.com/61299111/93688557-48aec480-fa8c-11ea-9efa-40e985fc2dfa.png">
 
 > Welcome to WODcoach workout generator
 
