@@ -1,6 +1,6 @@
-![Logo](demo/WODlogo.png)
+![Logo](demo/WODlogo.png) <!-- .element max=width:50% -->
 
-# Welcome to WODcoach
+> Welcome to WODcoach workout generator
 
 WODCoach is a workout web application that enables users to create custom workout routines. Users can add workout blocks from a menu of options, including EMOM, RFT, Tabata, AMRAP and Conventional.
 
@@ -33,3 +33,14 @@ WODcoach uses a number of open source projects to work properly:
 ##### API
 
 - [Axios] - Promise based HTTP client for the browser and node.js
+
+### Installation
+
+Install the dependencies and devDependencies and start the server.
+
+```sh
+$ cd WODcoach
+$ npm run build
+$ npm run start
+Go to localhost:4040/
+```
