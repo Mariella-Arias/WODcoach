@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "react-dev": "webpack -d --watch"
+    "build": "webpack -d --watch"
   },
   "repository": {
     "type": "git",
@@ -24,15 +24,20 @@
     "@babel/preset-react": "^7.10.4",
     "babel-loader": "^8.1.0",
     "css-loader": "^4.3.0",
+    "file-loader": "^6.1.0",
     "style-loader": "^1.2.1",
     "webpack": "^4.44.1",
     "webpack-cli": "^3.3.12"
   },
   "dependencies": {
+    "@material-ui/core": "^4.11.0",
     "cors": "^2.8.5",
     "express": "^4.17.1",
+    "material-table": "^1.69.0",
     "path": "^0.12.7",
     "react": "^16.13.1",
-    "react-dom": "^16.13.1"
+    "react-dom": "^16.13.1",
+    "react-dropdown": "^1.8.0",
+    "react-router-dom": "^5.2.0"
   }
 }
