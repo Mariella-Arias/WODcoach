@@ -3,8 +3,12 @@
 > Welcome to WODcoach workout generator
 
 WODCoach is a workout web application that enables users to create custom workout routines. Users can add workout blocks from a menu of options, including EMOM, RFT, Tabata, AMRAP and Conventional.
+_______________________
 
 ![Demo](demo/WOD.gif)
+
+
+_______________________
 
 # Tech Stack
 
