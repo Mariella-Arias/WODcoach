@@ -7,9 +7,6 @@ _______________________
 
 ![Demo](demo/WOD.gif)
 
-
-_______________________
-
 # Tech Stack
 
 WODcoach uses a number of open source projects to work properly:
